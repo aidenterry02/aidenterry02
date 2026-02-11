@@ -5,7 +5,7 @@
 
 ## About Me
 
-a builder at heart. I design systems that solve real problems for real people.  
+A builder at heart. I design systems that solve real problems for real people.  
 What motivates me is taking something complex or inefficient and rebuilding it into something clear, reliable, and easy to use.
 
 I focus on automation, data workflows, and engineered solutions that remove friction and give people back time.  
