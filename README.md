@@ -24,16 +24,8 @@ Minors in Mathematics and Supply Chain Logistics
 
 ---
 
-## Professional Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-aidenterry02-181717?logo=github)](https://github.com/aidenterry02)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aiden--terry-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aiden-terry/)  
-[![Email](https://img.shields.io/badge/Email-aiden.t.terry%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aiden.t.terry@gmail.com) 
-
----
-
-
-## Contact
+## Contact Me
 
 **Email:** aiden.t.terry@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/aiden-terry/  
